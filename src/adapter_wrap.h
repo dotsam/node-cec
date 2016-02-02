@@ -3,6 +3,7 @@
 
 #include <queue>
 #include <node.h>
+#include <node_object_wrap.h>
 #include "cec.h"
 
 class AdapterWrap : public node::ObjectWrap {

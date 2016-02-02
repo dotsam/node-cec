@@ -1,5 +1,6 @@
 #include <node.h>
 #include <v8.h>
+#include <uv.h>
 #include "cec_wrap.h"
 #include "adapter_wrap.h"
 
